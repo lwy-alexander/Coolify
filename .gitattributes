@@ -1,0 +1,7 @@
+* text=auto
+
+*.blade.php linguist-language=PHP
+*.js linguist-language=JavaScript
+*.css linguist-language=CSS
+*.scss linguist-language=SCSS
+*.vue linguist-language=Vue
